@@ -1,0 +1,208 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: SBBmM15c145B09h/BhGngtoKp6Q=
+Created-By: Nikhil @ XDA
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: zEm0JK+bJLzq6W/iL2wDPp1cuTg=
+
+Name: common/unmount.sh
+SHA1-Digest: TIgJoeVhmpQg4fWBGLvcPeI6NpE=
+
+Name: AppSet/GoogleLocationHistory/GoogleLocationHistory.zip
+SHA1-Digest: +UNbprOKu+gpJIaeiWF5i9VsLbM=
+
+Name: AppSet/PlayGames/PlayGames.zip
+SHA1-Digest: lFrUgtqJfcQg1nUIh7GacJJzZQk=
+
+Name: AppSet/GoogleFeedback/GoogleFeedback.zip
+SHA1-Digest: WooHZJ3ZRptMfBrLHSUHIQOmIzQ=
+
+Name: AppSet/Velvet/Velvet.zip
+SHA1-Digest: RQm7GdDBRdhJLj+RWYnzmjhSujc=
+
+Name: common/header
+SHA1-Digest: kB6IKOqQFyMteo5NtZk9KYjb4kI=
+
+Name: common/addon
+SHA1-Digest: e3cudKeEliZRIzpsuDwQdfsYyxM=
+
+Name: AppSet/DeviceHealthServices/DeviceHealthServices.zip
+SHA1-Digest: 1nE6vH8227nfoW8ki+fGo2kGKkk=
+
+Name: customize.sh
+SHA1-Digest: VclYgFrcTVjP7b7YsWuYoiap8vA=
+
+Name: common/nikgapps_functions.sh
+SHA1-Digest: xb890WmirMC8/xd/3DXb3I+HLwY=
+
+Name: AppSet/GooglePhotos/GooglePhotos.zip
+SHA1-Digest: +9+8XNyyquW8ijdOBMWqb/weD9c=
+
+Name: AppSet/Core/GoogleServicesFramework.zip
+SHA1-Digest: LOParqR1EUBmwq2mkYBdm2nP7As=
+
+Name: AppSet/GoogleFiles/StorageManager.zip
+SHA1-Digest: wL2W7PAQbV/cn/sJYyuvHKlEoYU=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: QNIvslSVZK1bm78VA9U9oMQFqAk=
+
+Name: AppSet/MarkupGoogle/MarkupGoogle.zip
+SHA1-Digest: oM+PYFwaY3D0BTw8wSApADTwQ7k=
+
+Name: AppSet/CarrierServices/CarrierServices.zip
+SHA1-Digest: fHYXQ4loIDLpe0Hf+lGJUZa7JjY=
+
+Name: afzc/nikgapps.config
+SHA1-Digest: owUhHUwYX/aiIzR+yXv/5HTv/YE=
+
+Name: AppSet/Core/GoogleCalendarSyncAdapter.zip
+SHA1-Digest: 41OVLRwrGJ9g+R+SHBiZ8RDDflQ=
+
+Name: module.prop
+SHA1-Digest: qE1MvtVUlV8rAoh8te/NOofBD2o=
+
+Name: AppSet/GoogleChrome/WebViewGoogle.zip
+SHA1-Digest: PQUyl9BZ5/cjVokKpLqvUb/qGH4=
+
+Name: AppSet/AndroidDevicePolicy/AndroidDevicePolicy.zip
+SHA1-Digest: Q8Hpfdi/XxUSGwS6966USWore30=
+
+Name: AppSet/Drive/Drive.zip
+SHA1-Digest: rsOc3R4/wt3m/9Qd1aOE2SlImWY=
+
+Name: AppSet/GoogleSounds/GoogleSounds.zip
+SHA1-Digest: Wl3PvwYfTHyoTO26WJ6VnD0o/NY=
+
+Name: common/mount.sh
+SHA1-Digest: +ty2+2rHWXJTvnuGJ8UGDtBeOdQ=
+
+Name: changelog.yaml
+SHA1-Digest: NutQmPjrUZOrDbbtB7yuHrUWVkc=
+
+Name: AppSet/PixelSetupWizard/SetupWizard.zip
+SHA1-Digest: G5/gjjByP/NA4913AACBlsPIYeg=
+
+Name: AppSet/Core/GmsCore.zip
+SHA1-Digest: oYYisTFFzV1LYjpp5rsyx7KyRPY=
+
+Name: AppSet/Gmail/Gmail.zip
+SHA1-Digest: d/tRV/QER07hco/qapqmsBWmjFs=
+
+Name: common/install.sh
+SHA1-Digest: y6RxOmWqpFbCSi3uUEZLL5fX7t8=
+
+Name: afzc/debloater.config
+SHA1-Digest: 7y/NWcBR7dLmycx8ohJhMKSl1Ro=
+
+Name: AppSet/GoogleCalendar/GoogleCalendar.zip
+SHA1-Digest: Z6AWHcgyqV1/ZOKeVPIn/xr7hr8=
+
+Name: AppSet/PixelSetupWizard/PixelSetupWizard.zip
+SHA1-Digest: 55yshOhWjRdPDJ3v7M4DRbjpTms=
+
+Name: AppSet/GoogleFiles/DocumentsUIGoogle.zip
+SHA1-Digest: ER4ZkJO5XRu5d6NA8+bkeCR4Lws=
+
+Name: AppSet/GooglePartnerSetup/GooglePartnerSetup.zip
+SHA1-Digest: jK6i5kX3txW2uSFSr1109ENWYm8=
+
+Name: AppSet/PixelLauncher/QuickAccessWallet.zip
+SHA1-Digest: MADAyd3zt+D8Ej0zSCFnvq1XUGI=
+
+Name: AppSet/GoogleChrome/TrichromeLibrary.zip
+SHA1-Digest: X2xL5jqsazJUVI5I32oVi4lCtos=
+
+Name: AppSet/GoogleContacts/GoogleContacts.zip
+SHA1-Digest: ql2WQ+CVGWe5XxWFS3/RmRnYI2A=
+
+Name: AppSet/GoogleChrome/GoogleChrome.zip
+SHA1-Digest: mvqbN9/n2tbZhMN4uIUcEOPL3W0=
+
+Name: AppSet/GoogleMessages/GoogleMessages.zip
+SHA1-Digest: 2MCE5w1pQjDouJut2+L7qXdr8OE=
+
+Name: AppSet/AndroidAuto/AndroidAuto.zip
+SHA1-Digest: 5SNKXhX2LfLZS2aTAsrIoc7tX2U=
+
+Name: AppSet/GoogleKeep/GoogleKeep.zip
+SHA1-Digest: aVXWxLyhdiKyCtTpZZ/UHBADnOY=
+
+Name: AppSet/GoogleWallpaper/GoogleWallpaper.zip
+SHA1-Digest: qtetdlj/+6EcKNri5lSgE4L2kJY=
+
+Name: AppSet/Core/GoogleContactsSyncAdapter.zip
+SHA1-Digest: TsVE8yHXAyejs+oLwhfNA6uhf/E=
+
+Name: AppSet/Books/Books.zip
+SHA1-Digest: FJ1YeJCVEPwsdxjS5k8shEy5tr4=
+
+Name: AppSet/GoogleMaps/GoogleMaps.zip
+SHA1-Digest: qXTlOqyWN4GCCa9KlW6KQZlk5kI=
+
+Name: AppSet/Assistant/Assistant.zip
+SHA1-Digest: qEpF3resBtM7LGBjW7MGKRL6bWQ=
+
+Name: AppSet/GoogleRecorder/GoogleRecorder.zip
+SHA1-Digest: lnpuHmdBAyJ9gBW9tunhna+ZFbA=
+
+Name: common/file_size
+SHA1-Digest: IJ4PvgUbvLtApasSpvE0s8HSI7k=
+
+Name: AppSet/GoogleFiles/GoogleFiles.zip
+SHA1-Digest: HDcud59/smmWy64ZtEGvzaOIsPE=
+
+Name: AppSet/PixelLauncher/PixelLauncher.zip
+SHA1-Digest: JqKRXd09VEdY6kEJd/3OygXtIw8=
+
+Name: AppSet/GoogleClock/GoogleClock.zip
+SHA1-Digest: Z1w5V9KMwH7043Btv546U1lF4ko=
+
+Name: common/functions
+SHA1-Digest: /ia/bLG2JTQJteoYK2TKdMrVT0A=
+
+Name: AppSet/VancedManager/VancedManager.zip
+SHA1-Digest: K3TRsFrLknxi72M23F03MiO/0go=
+
+Name: AppSet/GoogleCalculator/GoogleCalculator.zip
+SHA1-Digest: QSm9oA66pxrLt41/+glPx0U9YwA=
+
+Name: AppSet/YouTubeMusic/YouTubeMusic.zip
+SHA1-Digest: 5MIa5xlUMN9McFi6Qez9i2voKjs=
+
+Name: busybox
+SHA1-Digest: Oqr1B97Cev1L3WrYreXjSfaHoeM=
+
+Name: AppSet/Core/GooglePlayStore.zip
+SHA1-Digest: 7tzy9sDwHC8jKRTO47coeQSeSw8=
+
+Name: AppSet/PixelSetupWizard/GoogleOneTimeInitializer.zip
+SHA1-Digest: HVGV7aKRotdNrybjUglhOwmNW+k=
+
+Name: AppSet/GoogleDialer/GoogleDialer.zip
+SHA1-Digest: M1zhRJToUEjPR9xJJhJ1v/h8yPk=
+
+Name: AppSet/PixelSetupWizard/AndroidMigratePrebuilt.zip
+SHA1-Digest: apR/qTy/yl9IRbZ0xvLaORoai+I=
+
+Name: AppSet/DigitalWellbeing/DigitalWellbeing.zip
+SHA1-Digest: w+ZAxetWqxsp/cR1Q9PMy6Npyt4=
+
+Name: AppSet/PixelSetupWizard/GoogleRestore.zip
+SHA1-Digest: sPflTlotasoDjdTbVvW2YMprcO4=
+
+Name: common/nikgapps.sh
+SHA1-Digest: vqP+inSvinPAJ867TQ5c/ZlQrDA=
+
+Name: AppSet/PixelLauncher/DevicePersonalizationServices.zip
+SHA1-Digest: NJ8+LS5auMoC7kWIBr4H1OPRp3M=
+
+Name: AppSet/GBoard/GBoard.zip
+SHA1-Digest: w1gMBd7QBuPy0ABUUyvO9dv1oRo=
+
+Name: AppSet/Core/ExtraFiles.zip
+SHA1-Digest: AtIscyM+D4nva8xTI4L+jjajLV0=
+
+Name: AppSet/DeviceSetup/DeviceSetup.zip
+SHA1-Digest: +/MccQbdFPI+0cdMsPZCqsZBtKM=
+
